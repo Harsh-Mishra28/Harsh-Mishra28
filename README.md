@@ -22,41 +22,6 @@ Final-year **Computer Engineering student** and **Web Developer** with hands-on 
 
 ---
 
-## 🚀 Featured Projects
-
-### Employee Management System
-A production-ready React application with role-based access control and task management.
-
-- Admin & Employee dashboards (RBAC)
-- Dynamic task assignment and status tracking
-- Reusable React components
-- Deployed on Vercel
-
-🔗 Live: https://employee-management-system-harsh-beta.vercel.app  
-📁 Repo: https://github.com/Harsh-Mishra28/employee-management-system-harsh  
-
----
-
-### Online Quiz Platform
-An interactive quiz application built using vanilla JavaScript.
-
-- Countdown timer and real-time scoring
-- Responsive UI for all screen sizes
-- DOM-based state management
-
-🔗 Live: https://quiz-master-pro-one.vercel.app  
-📁 Repo: https://github.com/Harsh-Mishra28/online-quiz  
-
----
-
-### Credit Card Analytics Dashboard
-Business intelligence dashboard using MySQL and Power BI.
-
-- Database schema design
-- SQL-based analytics
-- KPI and spending insights visualization
-
----
 
 ## 💼 Experience
 **Microsoft Data & AI Internship – CloudThat Technologies (Remote)**  
