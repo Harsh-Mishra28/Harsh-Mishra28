@@ -1,18 +1,84 @@
-# 💫 About Me:
-Ambitious engineering student building practical web projects, continuously learning technologies, and seeking opportunities to grow, collaborate, and create impactful solutions.
+# Harsh Mishra
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.harsh.mishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harsh-mishra2816) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harsh Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshmishra8154@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsh-Mishra28&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harsh-Mishra28&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Mishra28&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Final-year **Computer Engineering student** and **Web Developer** with hands-on experience in building **responsive, production-ready web applications** using modern frontend technologies. Strong focus on clean UI, scalable component-based architecture, and performance optimization.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harsh-Mishra28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 What I Do
+- Build responsive web applications using **React.js and JavaScript (ES6+)**
+- Design clean UI with **HTML, CSS, and Tailwind CSS**
+- Implement component-based architecture and state management
+- Work with **MySQL databases** and RESTful APIs
+- Use **Git & GitHub** for version control and collaboration
+- Deploy applications using **Vercel**
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**Backend & Data:** Core Java, MySQL, SQL  
+**Tools & Platforms:** Git, GitHub, VS Code, Vercel  
+**Concepts:** OOP, SDLC, REST APIs, Agile Development, UI/UX Principles
+
+---
+
+## 🚀 Featured Projects
+
+### Employee Management System
+A production-ready React application with role-based access control and task management.
+
+- Admin & Employee dashboards (RBAC)
+- Dynamic task assignment and status tracking
+- Reusable React components
+- Deployed on Vercel
+
+🔗 Live: https://employee-management-system-harsh-beta.vercel.app  
+📁 Repo: https://github.com/Harsh-Mishra28/employee-management-system-harsh  
+
+---
+
+### Online Quiz Platform
+An interactive quiz application built using vanilla JavaScript.
+
+- Countdown timer and real-time scoring
+- Responsive UI for all screen sizes
+- DOM-based state management
+
+🔗 Live: https://quiz-master-pro-one.vercel.app  
+📁 Repo: https://github.com/Harsh-Mishra28/online-quiz  
+
+---
+
+### Credit Card Analytics Dashboard
+Business intelligence dashboard using MySQL and Power BI.
+
+- Database schema design
+- SQL-based analytics
+- KPI and spending insights visualization
+
+---
+
+## 💼 Experience
+**Microsoft Data & AI Internship – CloudThat Technologies (Remote)**  
+- Built Power BI dashboards for data visualization  
+- Worked on ETL and data transformation  
+- Followed Agile development practices  
+
+---
+
+## 🎓 Education
+**B.E. in Computer Engineering**  
+SAL Institute of Technology & Engineering Research, Ahmedabad  
+CGPA: **7.8 / 10** | Graduation: **2026**
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Harsh-Mishra28  
+- LinkedIn: https://www.linkedin.com/in/harsh-mishra2816  
+- Email: harshmishra8154@gmail.com  
+
+---
+
+⭐ *Open to internships, entry-level roles, and project-based opportunities*
+
